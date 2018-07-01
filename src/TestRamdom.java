@@ -1,4 +1,8 @@
-
+/**
+ * 测试随机值
+ * @author hong
+ *
+ */
 public class TestRamdom {
 	public static void main(String[] args) {
 		double r = Math.random();

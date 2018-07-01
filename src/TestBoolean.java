@@ -1,3 +1,8 @@
+/**
+ * 测试布尔类型
+ * @author hong
+ *
+ */
 public class TestBoolean {
 	public static void main(String[] args) {
 		boolean whether = true;

@@ -1,3 +1,8 @@
+/**
+ * 测试运算符
+ * @author hong
+ *
+ */
 public class TestOperator {
 	public static void main(String[] args) {
 		int a = 10;

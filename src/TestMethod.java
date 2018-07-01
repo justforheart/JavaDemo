@@ -1,4 +1,8 @@
-
+/**
+ * 测试方法调用
+ * @author hong
+ *
+ */
 public class TestMethod {
 	public static void main(String[] args) {
 		int c = 0;
